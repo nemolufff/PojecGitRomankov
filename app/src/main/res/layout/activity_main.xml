@@ -8,6 +8,7 @@
     android:clipToOutline="true"
     android:clipToPadding="true"
     android:rotation="165"
+    android:rotationX="326"
     android:rotationY="-343"
     tools:context=".MainActivity">
 
